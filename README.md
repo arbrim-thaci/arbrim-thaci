@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **E-Learning Projects**
 
-- 🤝 I’m looking for help with **Programming Basics & Advanced**
-
 - 💬 Ask me about **Java Web Applications**
 
 <h3 align="left">Languages and Tools:</h3>
